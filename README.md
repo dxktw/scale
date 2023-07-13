@@ -1,5 +1,10 @@
 # Scale
 
+![shot1](https://github.com/RedisMadani/Scale/assets/136177376/a1e449f3-45c4-416c-8568-9959788962aa)
+
+![shot2](https://github.com/RedisMadani/Scale/assets/136177376/a04c60e4-abbf-4dc4-8e1e-53898ce98010)
+
+![shot3](https://github.com/RedisMadani/Scale/assets/136177376/2397e76e-dd05-4d32-9753-c4f291101568)
 
 ## Description
 
